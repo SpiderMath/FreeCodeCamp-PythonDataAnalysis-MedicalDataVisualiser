@@ -71,9 +71,9 @@ Copy your project's URL and submit it to freeCodeCamp.
 <details>
 <summary><strong>Examples</strong></summary>
 
-![Figure 1](./examples/figure_1.png)
+![Figure 1](./examples/Figure_1.png)
 
-![Figure 2](./examples/figure_2.png)
+![Figure 2](./examples/Figure_2.png)
 </details>
 
 <details>
